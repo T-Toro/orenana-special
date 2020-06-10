@@ -43,6 +43,27 @@ header {
   background-color: #e6ffff;
 }
 
+footer a {
+  margin-bottom: 10px;
+}
+
+footer img{
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer {
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #E0FFFF;
+  z-index: 9;
+}
 
 *, *:before, *:after {
 	padding: 0;
