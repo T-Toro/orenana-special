@@ -108,7 +108,7 @@ a {
 }
 
 .cp_cont {
-	display:none;
+	display: none;
 }
 
 .cp_offcm01 {
@@ -180,6 +180,9 @@ a {
 	content: '\f00d';
 }
 
+.clear {
+  clear: left;
+}
 @media all and (max-width: 670px) {
 	.header-right {
 	display: none;
