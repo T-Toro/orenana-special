@@ -7,6 +7,10 @@ body {
   font-family:"Noto Serif JP";
 }
 
+.special {
+  background-color: #ebf6f7;
+}
+
 header {
   height: 65px;
   width: 100%;  
