@@ -192,6 +192,10 @@ a {
 	display: none;
 	}
 	
+	.map img {
+	height: 195px;
+	}
+	
 	.cp_cont {
 	display: block;
 	}
